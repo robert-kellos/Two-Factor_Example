@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shanuMVCUserRoles", "shanuMVCUserRoles\shanuMVCUserRoles.csproj", "{26E068D5-0297-414B-978E-0F6C80D40A1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36539A33-D636-4A92-A629-B13E9E67AA8A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\14.0\EXTENSIONS\AFMVVYXR.KN0\description.html = ..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\14.0\EXTENSIONS\AFMVVYXR.KN0\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E068D5-0297-414B-978E-0F6C80D40A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E068D5-0297-414B-978E-0F6C80D40A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E068D5-0297-414B-978E-0F6C80D40A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E068D5-0297-414B-978E-0F6C80D40A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
