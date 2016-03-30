@@ -190,6 +190,25 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="App_Data\ASP.NET Identity 2.1 Roles Based Authorization with ASP.pdf" />
+    <Content Include="App_Data\ASP.NET Identity 2.1 with ASP.NET Web API 2.pdf" />
+    <Content Include="App_Data\ASP.NET Identity 2_Group_Permissions.pdf" />
+    <Content Include="App_Data\ASP.NET Web Api 2.pdf" />
+    <Content Include="App_Data\ASP.NET Web Api and Identity 2.pdf" />
+    <Content Include="App_Data\ASP.NET Web API Claims Authorization with ASP.NET Identity 2.pdf" />
+    <Content Include="App_Data\AspNet-Identity-2-Extensible-Project-Template-master.zip" />
+    <Content Include="App_Data\AspNet-Identity-2-With-Integer-Keys-master.zip" />
+    <Content Include="App_Data\AspNetIdentity.WebApi-master %281%29.zip" />
+    <Content Include="App_Data\AspNetIdentity.WebApi-master.zip" />
+    <Content Include="App_Data\AspNetIdentity2GroupPermissions-master.zip" />
+    <Content Include="App_Data\Code_Lerman.DataPoints.0114.zip" />
+    <Content Include="App_Data\Customizing Routes in ASP.pdf" />
+    <Content Include="App_Data\Customizing the ASP_UserRoles.pdf" />
+    <Content Include="App_Data\Implement OAuth JSON Web Tokens Authentication in ASP.NET Web API and Identity 2.pdf" />
+    <Content Include="App_Data\MinimalOwinWebApiSelfHost-ef.zip" />
+    <Content Include="App_Data\NAM_Sample_Pt1.zip" />
+    <Content Include="App_Data\Routing Basics in WebApi.pdf" />
+    <Content Include="App_Data\Routing in ASP.NET Web API _ The ASP.pdf" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -240,9 +259,7 @@
     <Content Include="Views\Role\Create.cshtml" />
     <Content Include="Views\Users\Index.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
